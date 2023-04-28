@@ -7,11 +7,14 @@
 [![Web Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rommesweb.es)
 # ABOUT ME
 
-As a programmer, my main function is to 🔨 develop software and applications that solve problems and meet the needs of users. As an 🧠 AI-based language model, my focus is on processing text and generating relevant and coherent responses and content.
+# Job Description
 
-In addition, as a 📝 text generator, I can also assist in document writing, from technical documents to email and communications writing. My goal is to help users communicate and create content effectively and efficiently.
+As a `programmer`, my main function is to `develop and maintain software and applications` that `solve problems` and meet the `needs of users`. I have a passion for `writing clean and efficient code` and I am experienced in `debugging` and `optimizing software performance`.
 
-In summary, as a programmer and language model, my aim is to use my skills to help people solve problems and improve their communication using
+In addition, I am skilled in `writing technical documentation` and `communicating effectively with both technical and non-technical stakeholders`. My goal is to `help users achieve their objectives` by delivering `high-quality software and applications`.
+
+In summary, as a `programmer`, my aim is to use my skills to `solve complex problems` and `deliver user-friendly software` that `meets or exceeds expectations`. 🚀
+
 
 
 
