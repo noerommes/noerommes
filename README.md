@@ -36,4 +36,4 @@ In summary, as a programmer and language model, my aim is to use my skills to he
 
 # GIT HUB STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noerommes&theme=dark)](https://git.io/streak-stats)
