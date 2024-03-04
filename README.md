@@ -1,10 +1,9 @@
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
 
 
-# NOÉ ROMAGUERA MESEGUER
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rommesweb)
-[![Twitter](https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white")](https://twitter.es/rommesweb.es)
-[![Web Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rommesweb.es)
+# Noé Romaguera Meseguer
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/noerommmes.dev)
+[![Web Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://noerommes.dev)
 # ABOUT ME
 
 As a `programmer`, my main function is to `develop and maintain software and applications` that `solve problems` and meet the `needs of users`. I have a passion for `writing clean and efficient code` and I am experienced in `debugging` and `optimizing software performance`.
