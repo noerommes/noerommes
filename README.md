@@ -14,10 +14,5 @@ Recently graduated in Multiplatform Application Development with a strong intere
 
 # TECHNOLOGY THAT I USE
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=github,js,react,npm,postgresql,windows,nodejs,mongodb,expressjs,postman,tailwindcss,java,eclipse,mysql,wordpress)](https://skillicons.dev)
 
