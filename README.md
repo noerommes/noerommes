@@ -10,11 +10,7 @@
 
 # About me
 
-As a `programmer`, my main function is to `develop and maintain software and applications` that `solve problems` and meet the `needs of users`. I have a passion for `writing clean and efficient code` and I am experienced in `debugging` and `optimizing software performance`.
-
-In addition, I am skilled in `writing technical documentation` and `communicating effectively with both technical and non-technical stakeholders`. My goal is to `help users achieve their objectives` by delivering `high-quality software and applications`.
-
-In summary, as a `programmer`, my aim is to use my skills to `solve complex problems` and `deliver user-friendly software` that `meets or exceeds expectations`. 🚀
+Recently graduated in Multiplatform Application Development with a strong interest in `Full Stack development`. Passionate about creating web and mobile applications that enhance people's lives. Currently, I am specializing in ``React for the front-end and Node.js for the back-end``. Eager to bring my ``technical skills`` to innovative projects, I also prioritize modern soft skills vital for a programmer in 2024. These include adaptability in fast-paced environments, ``effective remote collaboration``, ``continuous learning mindset``, ``critical thinking for problem-solving``, and ``strong communication skills`` to bridge gaps between technical and non-technical teams. Looking for opportunities to grow as a developer and contribute to innovative projects with both my ``technical abilities and soft skills``. 🚀
 
 # TECHNOLOGY THAT I USE
 
